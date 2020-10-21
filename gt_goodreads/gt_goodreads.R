@@ -175,4 +175,4 @@ books_gt
 
 # save as PNG
 books_gt %>% 
-  gtsave("goodreads5.png")
+  gtsave("books_gt.png")
