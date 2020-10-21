@@ -1,4 +1,4 @@
-# Getting started with {gt} package by Rich Iannone
+# Getting started with {gt} package by Richard Iannone
 # Using the Goodreads dataset from Kaggle
 
 # prerequisites 
